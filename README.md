@@ -1,0 +1,2 @@
+# BitDepthReducer
+BitDepthReducer audio plugin
