@@ -5,7 +5,7 @@ BitDepthReducer is a VST3 audio plugin that allows you to reduce the bit depth o
 <img src="media/BitDepthReducer.png">
 </p>
 
-# Downloads [BitDepthReducer 1.0](https://github.com/Cyril-Meyer/BitDepthReducer/releases/tag/1.0)
+# Downloads [BitDepthReducer 1.0](https://github.com/Cyril-Meyer/BitDepthReducer/releases/tag/1.1)
 
 # Example audio results:
 
